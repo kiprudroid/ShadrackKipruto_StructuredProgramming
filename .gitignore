@@ -1,0 +1,14 @@
+
+# Compiled object files and libraries
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+
