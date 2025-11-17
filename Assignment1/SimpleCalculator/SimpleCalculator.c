@@ -10,7 +10,7 @@ int main() {
     // The user inputs the operator then inputs the two numbers separated by space
     printf("Enter an operator (+, -, *, /, %%): ");
     scanf(" %c", &operator);
-    printf("Enter two operands: ");
+    printf("Enter two operands separated only by space: ");
     scanf("%lf %lf", &num1, &num2);
     
     // use of switch case as the control statement instead of if-else statements
